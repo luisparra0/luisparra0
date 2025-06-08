@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luís👋
 
 - 👨‍🎓 Graudado em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie.
-- 🌱 Cursando Pós-Graduação Full Satck Development na FIAP.
+- 🌱 Cursando Pós-Graduação Data Analytics na FIAP.
 - ✉️ Contato: luis.alura2024@gmail.com
 
 <div style="display: inline_block"><br>
@@ -11,6 +11,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ícone Tableau" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg">
+  <img align="center" alt="Ícone Power BI" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powerbi.svg">
 </div>
   
   ##
