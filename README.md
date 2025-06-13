@@ -22,5 +22,10 @@
   
 </div>
 
+ ## 🚀 Contribuições Relevantes
+
+- 📊 [Análise da exportação de vinho de mesa do RS (2009–2023)](https://github.com/umpuela/exportacao-vinho-mesa-rs): participei da análise de dados, limpeza de bases e elaboração de relatório com insights sobre o mercado vinícola brasileiro.
+
+
   ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisparra0&show_icons=true&theme=dark)
