@@ -1,31 +1,71 @@
-## Olá! Eu sou o Luís👋
+# Olá! Eu sou o Luís 👋
 
-- 👨‍🎓 Graudado em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie.
-- 🌱 Cursando Pós-Graduação Data Analytics na FIAP.
-- ✉️ Contato: luis.alura2024@gmail.com
+📊 Analista de Dados com foco em análise exploratória e desenvolvimento de soluções com Machine Learning.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## 🎓 Formação
 
-</div>
+* Análise e Desenvolvimento de Sistemas — Mackenzie
+* Pós-graduação em Data Analytics — FIAP (conclusão pendente de certificação)
+* Pós-graduação em Machine Learning Engineering — FIAP (em andamento)
 
-  ##
- 
-<div> 
+## 🧠 Skills
 
-  <a href="https://www.linkedin.com/in/luis-h-parra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+* Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn)
+* SQL
+* Análise Exploratória de Dados (EDA)
+* Limpeza e tratamento de dados
+* Modelagem preditiva
+* Visualização de dados
 
- ## 🚀 Contribuições Relevantes
+## 📌 Projetos em destaque
 
-- 📊 [Análise da exportação de vinho de mesa do RS (2009–2023)](https://github.com/umpuela/exportacao-vinho-mesa-rs): participei da análise de dados, limpeza de bases e elaboração de relatório com insights sobre o mercado vinícola brasileiro.
+### 🏗️ Pipeline de dados — PNAD COVID (IBGE)
 
+* Construção de pipeline para processamento da PNAD COVID-19
+* Transformação de dados brutos em camadas analíticas estruturadas
+* Organização escalável para análises e modelagem
 
-  ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisparra0&show_icons=true&theme=dark)
+👉 Diferencial: engenharia de dados aplicada a base real de grande volume
+
+---
+
+### 🎓 Risco de defasagem educacional — ONG Passos Mágicos
+
+* Desenvolvimento de modelo preditivo para identificar alunos com risco de defasagem
+* Apoio à priorização de ações educacionais preventivas
+* Aplicação de técnicas de classificação e avaliação de desempenho
+
+👉 Impacto: suporte à tomada de decisão com base em dados educacionais
+
+---
+
+### 🍷 Análise do mercado de vinhos (RS)
+
+* Estudo da evolução das exportações (2009–2023)
+* Segmentação de países por comportamento de consumo
+* Identificação de mercados potenciais
+
+👉 Foco: análise de mercado e identificação de padrões
+
+---
+
+### ⚖️ Classificação de níveis de obesidade
+
+* Construção de modelo supervisionado para classificação de níveis de obesidade
+* Comparação entre algoritmos e validação de performance
+* Avaliação com métricas como accuracy, precision e recall
+
+👉 Foco: análise comparativa de modelos de Machine Learning
+
+---
+
+## 🚀 Interesses
+
+* Análise de mercado
+* Machine Learning aplicado a negócios
+* Modelagem preditiva
+
+## 📫 Contato
+
+* LinkedIn: https://linkedin.com/in/luishparra
+* Email: [luis.henr.parra@gmail.com](mailto:luis.henr.parra@gmail.com)
