@@ -49,13 +49,17 @@
 
 ---
 
-### ⚖️ Classificação de níveis de obesidade
+## ⚖️ Classificação de níveis de obesidade
 
-* Construção de modelo supervisionado para classificação de níveis de obesidade
-* Comparação entre algoritmos e validação de performance
-* Avaliação com métricas como accuracy, precision e recall
+- Desenvolvimento de modelo supervisionado para classificação de níveis de obesidade  
+- Comparação entre diferentes algoritmos e avaliação de performance  
+- Modelo final: **XGBoost (≈96% de acurácia)**  
 
-👉 Foco: análise comparativa de modelos de Machine Learning
+👉 **Aplicação completa:** https://github.com/luisparra0/obesity-prediction-app  
+
+👉 Foco: aplicação prática de Machine Learning com análise comparativa de modelos
+
+👉 Inclui interface interativa com Streamlit, histórico de pacientes e dashboard analítico
 
 ---
 
