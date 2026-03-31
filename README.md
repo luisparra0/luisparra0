@@ -42,7 +42,7 @@ Data Analyst focused on exploratory data analysis, predictive modeling, and end-
 
 **Live App:** https://student-risk-prediction-app.streamlit.app
 
-**Repository:** https://github.com/seu-usuario/student-risk-prediction
+**Repository:** https://github.com/luisparra0/student-risk-prediction
 
 **Impact:** Supports early identification of at-risk students, enabling targeted educational interventions
 
