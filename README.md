@@ -48,21 +48,13 @@ Data Analyst focused on exploratory data analysis, predictive modeling, and end-
 
 ---
 
-### Wine Market Analysis (Brazil — RS)
-
-* Analyzed export trends from 2009 to 2023
-* Segmented countries based on consumption behavior
-* Identified potential expansion markets
-
-**Focus:** Market analysis and pattern identification
-
----
-
 ### Obesity Level Classification
 
 * Developed a supervised learning model to classify obesity levels
 * Compared multiple algorithms and evaluated model performance
 * Final model: XGBoost (~96% accuracy)
+
+**Live App:** https://oobesity-prediction.streamlit.app
 
 **Repository:** https://github.com/luisparra0/obesity-prediction-app
 
