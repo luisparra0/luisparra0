@@ -29,13 +29,19 @@
 
 ---
 
-### 🎓 Risco de defasagem educacional — ONG Passos Mágicos
+🎓 Risco de defasagem educacional — ONG Passos Mágicos
 
-* Desenvolvimento de modelo preditivo para identificar alunos com risco de defasagem
-* Apoio à priorização de ações educacionais preventivas
-* Aplicação de técnicas de classificação e avaliação de desempenho
+* Desenvolvimento de modelo preditivo para identificação de alunos em risco com base na evolução do desempenho
+* Engenharia de features focada em variação de notas (delta e proporção)
+* Otimização de threshold para priorizar recall (~83% na classe de risco)
+* Validação do modelo com cenários simulados para análise de comportamento
 
-👉 Impacto: suporte à tomada de decisão com base em dados educacionais
+👉 Código: https://github.com/seu-usuario/student-risk-prediction
+
+👉 Impacto: suporte à identificação precoce de alunos em risco, permitindo ações educacionais mais direcionadas
+
+👉 Inclui **aplicação interativa** em Streamlit com inferência em tempo real: https://student-risk-prediction-app.streamlit.app
+
 
 ---
 
